@@ -1,0 +1,84 @@
+D:\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.runtimeconfig.json
+D:\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.genruntimeconfig.cache
+D:\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.runtimeconfig.json
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.genruntimeconfig.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.runtimeconfig.json
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.runtimeconfig.json
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.genruntimeconfig.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.runtimeconfig.json
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.genruntimeconfig.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.runtimeconfig.json
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.pdb
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\DataModel.genruntimeconfig.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataModel\obj\Debug\net6.0\ref\DataModel.dll

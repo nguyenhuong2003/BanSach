@@ -1,0 +1,102 @@
+D:\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Hường\Giải nén\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin (1)\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\HUONG\giainen\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\bin\Debug\net6.0\DataModel.pdb
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\DoAn3\Sach_BackEnd_Admin\Sach_BackEnd_Admin\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
